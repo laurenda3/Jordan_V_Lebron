@@ -22,13 +22,13 @@ Example Insight:
 ## 📸 Visual Highlights
 
 ### 📈 True Shooting Percentage Comparison
-![True Shooting Percentage](charts/ts_comparison.png)
+![True Shooting Percentage](images/shooting_percentage.png)
 
 ### 📈 Points Per Game Over Time
-![PPG Over Career](charts/ppg_over_time.png)
+![PPG Over Career](images/PPG_over_seasons.png)
 
-### 📈 Field Goal Percentage Comparison
-![Field Goal %](charts/fg_percent_comparison.png)
+### 📈 Efficiency Comparison
+![Efficiency %](images/eff_comparison_career.png)
 
 *More visualizations available in the notebook and scripts.*
 
@@ -47,9 +47,7 @@ Example Insight:
 
 ```bash
 Jordan_VS_Lebron_Analysis/
-├── analysis.ipynb         # Exploratory data analysis
-├── visualization.py       # Scripted charts and plots
-├── charts/                # Exported chart images
-├── data/                  # NBA stats CSVs
+├── jordan-vs-lebron.ipynb # Exploratory data analysis
+├── images/                # Exported chart images
 └── README.md
 
